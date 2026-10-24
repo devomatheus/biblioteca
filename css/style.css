@@ -1038,7 +1038,7 @@ ol {
 }
 
 .categories__item {
-	height: 314px;
+	aspect-ratio: 1 / 1;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
